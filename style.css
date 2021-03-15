@@ -2,7 +2,7 @@ body {
   background-image: url("images/bg.jpg");
   background-repeat: no-repeat;
   background-size: auto;
-  font-family: "Roboto", sans-serif;
+  font-family: "", sans-serif;
 }
 .menu {
   height: auto;
@@ -32,7 +32,7 @@ body {
   color:  rgb(85, 37, 218);
 }
 .isim {
-  font-size: 22px;
+  font-size: 30px;
   color:  rgb(85, 37, 218);
 }
 .ana-bolge {
@@ -82,13 +82,18 @@ body {
   color: black;
   font-weight: 800;
 }
+.person-info p{
+  color:azure;
+  font-size: 5px;
+  
+}
 .foto-kutusu {
   margin-bottom: -25%;
   margin-top: 10%;
 }
 .foto {
   border: 1px solid lightgray;
-  padding: 7px;
+  padding: 5px;
   background-color: white;
 }
 .foto:hover {
